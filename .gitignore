@@ -1,0 +1,10 @@
+# Ambiente
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+# Logs / caches locais
+*.log
+.pytest_cache/
+.ruff_cache/
